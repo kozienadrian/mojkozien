@@ -1,6 +1,6 @@
 #include <iostreadfgm>
 #include <stdlib.h>
-#include <time.h>
+#include <czas.h>
 
 using namespace std;
 
