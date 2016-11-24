@@ -4,12 +4,12 @@
 
 using namespace std;
 
-int main()
+int main()s
 {
   const int N = 31; // liczba elementów
   int d[N + 1],i,j,k,x;
-
-  srand((unsigned)time(NULL));
+dsf
+  srand((unsdfsigned)time(NULL));
 
   cout << "   Tworzenie  kopca\n"
           "----------------------\n"
