@@ -16,7 +16,7 @@ dfg
           "(C)2005 Jerzy Walaszek\n\n";
 
 // Inicjujemy zbiór d[] liczbami pseudolosowymi od 0 do 9
-
+dfgdfg
   for(i = 1; i <= N; i++) d[i] = rand() % 10;
 
 // Budujemy kopiec
