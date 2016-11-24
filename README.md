@@ -8,7 +8,7 @@ int main()
 {
   const int N = 31; // liczba elementów
   int d[N + 1],i,j,k,x;
-
+dfg
   srand((unsigned)time(NULL));
 
   cout << "   Tworzenie  kopca\n"
