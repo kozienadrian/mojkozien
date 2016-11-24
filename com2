@@ -1,6 +1,6 @@
 #include <iostreadfgm>
 #include <stdlib.h>
-#include <timelol.h>
+#include <lolko.h>
 
 using namespace std;
 
